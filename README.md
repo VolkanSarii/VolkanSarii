@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Volkan.
-- 👀 I’m interested in Image Processing and AI.
-- 🌱 I’m currently learning Autonomous Software.
+- ⚡ I am working in C/C++, STM32, Bare-Metal Programming, C, C++, Arm Cortex-M3/M4.
 - 📫 How to reach me vlkn.sarii@gmail.com
 
 <!---
